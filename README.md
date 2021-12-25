@@ -1,7 +1,2 @@
 # Duke-University-Inferential-Statistics
 
-|-------------------------------|
-|                               |
-|                               |
-|                               |
-|                               |
