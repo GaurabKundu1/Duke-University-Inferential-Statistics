@@ -1,5 +1,6 @@
 ---
 title: "Statistical inference with the GSS data"
+author: "Gaurab Kundu"
 output: 
   html_document: 
     fig_height: 4
@@ -150,3 +151,7 @@ print(paste("The p-value is", p_value))
 ```
 
 p-value, which is about **0.07**, is smaller than 10% while greater than 5%. **Therefore, we reject the null hypothesis that there is no mean difference at 10% level, and we are 90% confident that the average schooling year in 2002 is different from that in 2012 in the whole U.S. population.**
+
+## Part 5: Conclusion
+
+In this project, we explore if there is statistical evidence that in the U.S., the average schooling year in 2012 is different from that in 2002. According to the result, we believe this is so at 90% confidence level. 
